@@ -1,0 +1,68 @@
+.main{
+    width: 100%;
+    font-family: "微软雅黑";
+}
+.progress img{
+    margin-left: -50px;
+}
+.goods_prompt{
+    float: left;
+    width: 150px;
+    line-height: 35px;
+}
+.block{
+    float: left;
+    margin-top: 5px;
+}
+.checkbox{
+    float: left;
+    margin-top: 2px;
+}
+.txt.position{
+    float: left;
+    font-size: 14px;
+    font-family: '微软雅黑';
+}
+.city{
+    font-weight: bold;
+}
+.goods_name{
+    width: 1190px;
+    height: 35px;
+    border: 1px solid#ccc;
+    background: #ebebeb;
+    line-height: 35px;
+}
+.goods_name span{
+    display: inline-block;
+    text-align: center;
+    border-right: 1px solid#fff;
+}
+.name{
+    width: 450px;
+}
+.price{
+    width: 130px;
+}
+.account{
+    width: 165px;
+}
+.total{
+    width: 154px;
+}
+.operation{
+    width: 70px;
+}
+.good_buy{
+    width: 1190px;
+}
+.good_buy img{
+    width: 1190px;
+}
+.total img{
+    width: 1190px;
+    margin-top: 50px;
+}
+.balance img{
+    margin-left: 1050px;
+}
